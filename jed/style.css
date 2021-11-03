@@ -7,8 +7,8 @@ h1 {
     margin-bottom: .3em;
     text-decoration: underline;
   }
-  
-  img {
+
+img {
     border: solid;
     border-radius: 50%;
     display: block;
@@ -16,6 +16,7 @@ h1 {
     margin-right: auto;
     width: 50%;
   }
+
 h2 {
     text-align: center;
     font-family: Snell Roundhand; 
@@ -40,8 +41,8 @@ ol {
     margin-left: auto;
     margin-right: auto;
   }
-  
-  td {
+
+td {
     padding-left: .5em;
     padding-right: .5em;
     border: 1px solid #900;
@@ -59,12 +60,12 @@ button:hover {
 */
 
 button {
-  background-color: #e0371a;
-  border: none;
-  color: white;
-  padding: 15px 32px;
-  text-align: center;
-  text-decoration: none;
-  display: inline-block;
-  font-size: 16px;
+    background-color: #e0371a;
+    border: none;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
 }  
